@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Notes.WebApi
+build_property.ProjectDir = D:\C#.Coding\webApi\Notes.Backend\Notes.WebApi\
